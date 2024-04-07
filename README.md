@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @miraard
+- 👋 Hi, I’m simin
 - 👀 I’m interested in games
-- 🌱 I’m currently learning c++/c
-- 💞️ I’m looking to collaborate on learning how to code
 - 📫 How to reach me siminalex2002@gmail.com
 
 <!---
