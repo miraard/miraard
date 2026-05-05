@@ -14,10 +14,9 @@ I enjoy building things, understanding how systems work under the hood, and solv
 - Reliable software design  
 - Linux environments and automation  
 
-
 - 🔭 Currently working on: **Network security toolkit (Python)**
 - 🌱 Learning: **Penetration testing fundamentals, Wireshark, Linux security**
-- 📫 Reach me: **simin.eskandari@ut.ac.ir** 
+- 📫 Reach me: **simin.eskandari@ut.ac.ir**
 - 🎯 2026 goal: **Contribute to open-source**
 
 <!-- Skills & Tools -->
