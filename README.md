@@ -34,7 +34,7 @@ I enjoy building things, understanding how systems work under the hood, and solv
 <!-- Projects preview -->
 ## 📁 What You'll Find Here
 
-- **Academic work** - my university foundation  
+- **Academic work** – my university foundation  
 - **Hands-on projects** – currently building a network scanning & analysis toolkit  
 - **Learning experiments** – small scripts, security labs, and system tools  
 
